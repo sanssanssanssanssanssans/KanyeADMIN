@@ -10,6 +10,6 @@ for _, sc in ipairs(cmdsFolder:GetChildren()) do
 end
 
 return {
-	prefix = require(script.Parent.Parent).prefix, 
+	prefix = require(script.Parent.Parent).KanyeConfig, 
 	cmds = cmds   
 }
