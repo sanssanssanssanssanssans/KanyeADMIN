@@ -6,7 +6,7 @@ Kanye Admin is a minimal, command-driven administrative framework originally des
 The system focuses on delivering only the core features required for effective server management, prioritizing low overhead, fast execution, and a straightforward command structure. While simple in design, Kanye Admin served as a practical and efficient tool for communities that needed reliable administrative functionality without additional dependencies.
 
 ## Purpose
-- Developed to fill the administrative gap in Jump Map servers without Coles or HD Admin.
+- Developed to fill the administrative gap in Jump Map servers without Kohls Admin or HD Admin.
 - Offers essential, performance-focused commands with minimal system load.
 - Provides an accessible, lightweight alternative for quick deployment and ease of use.
 
